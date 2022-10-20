@@ -3,7 +3,7 @@
 
 <img style="height: 200px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/154158025837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitatra&label=Profile%20views&color=025b6&style=flat" alt="AnkitaThakur" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitatra&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitaThakur" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ankitatra" alt="AnkitaThakur" /> </p>
 
