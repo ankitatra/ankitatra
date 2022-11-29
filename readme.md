@@ -1,11 +1,9 @@
 <h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Ankita Thakur</h1>
-     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&right=true&width=400&height=50">
+<p align="center"><img   src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&right=true&width=400&height=50"></p>
 
-<img style="height: 200px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/154158025837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
+<img align="center" style="height: 200px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/154158025837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitatra&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitaThakur" /> </p>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ankitatra" alt="AnkitaThakur" /> </p>
+<br>
 
 - 🌱 I’m currently learning **Adavance React/Redux**
 
@@ -16,6 +14,15 @@
 - 📫 How to reach me **ankitathakurankita7007@gmail.com**
 
 - ⚡ Fun fact **Knowledge is the Key to Build your Future.**
+
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitatra&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitaThakur" /> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ankitatra" alt="AnkitaThakur" /> </p>
+
+
 
 <br>
 
