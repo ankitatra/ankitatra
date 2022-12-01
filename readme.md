@@ -47,7 +47,7 @@
 </td>
 <td width="100%" align="center">
 <span><b>CSS</b></span><br><br>
-<img height="64px"  width="100%" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="64px"  width="80%" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </td>
 <td width="100%" align="center">
 <span><b>JavaScript</b></span><br><br>
@@ -67,7 +67,7 @@
 
 <td width="100%" align="center">
 <span><b>NodeJs</b></span><br><br>
-<img height="64px"  width="100%" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img height="64px"  width="80%" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </td>
 
 <td width="100%" align="center">
