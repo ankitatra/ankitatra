@@ -43,40 +43,40 @@
 <tr valign="top">
 <td width="100%" align="center">
 <span><b>HTML</b></span><br><br>
-<img height="64px" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img height="64px" width="80%" alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </td>
 <td width="100%" align="center">
 <span><b>CSS</b></span><br><br>
-<img height="64px" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="64px"  width="100%" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </td>
 <td width="100%" align="center">
 <span><b>JavaScript</b></span><br><br>
-<img height="64px" width="50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="64px"  width="80%" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </td>
 <td width="100%" align="center">
 <span><b>ReactJs</b></span><br><br>
-<img height="64px" width="50px" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img height="64px"  width="80%" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </td>
 </tr>
 
 <tr  width="100%" valign="top"> 
 <td width=55%" align="center">
 <span><b>Redux</b></span><br><br>
-<img height="64px" width="50px" alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+<img height="64px"  width="80%" alt="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
 </td>
 
 <td width="100%" align="center">
 <span><b>NodeJs</b></span><br><br>
-<img height="64px" width="50px" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img height="64px"  width="100%" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </td>
 
 <td width="100%" align="center">
 <span><b>ExpressJs</b></span><br><br>
-<img height="64px" width="50px" alt="ExpressJs" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
+<img height="64px"  width="80%" alt="ExpressJs" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
 </td>
 <td width="100%" align="center">
 <span><b>MongoDb</b></span><br><br>
-<img height="64px" width="50px" alt="MongoDb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img height="64px"  width="80%" alt="MongoDb" src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png">
 </td>
 </tr>
 </tbody>
