@@ -45,36 +45,36 @@
 <span><b>HTML</b></span><br><br>
 <img height="64px" width="80%" alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </td>
-<td width="100%" align="center">
+<td  align="center">
 <span><b>CSS</b></span><br><br>
 <img height="64px"  width="80%" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </td>
-<td width="100%" align="center">
+<td align="center">
 <span><b>JavaScript</b></span><br><br>
 <img height="64px"  width="80%" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </td>
-<td width="100%" align="center">
+<td align="center">
 <span><b>ReactJs</b></span><br><br>
 <img height="64px"  width="80%" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </td>
 </tr>
 
-<tr  width="100%" valign="top"> 
+<tr align="center"> 
 <td width=55%" align="center">
 <span><b>Redux</b></span><br><br>
-<img height="64px"  width="80%" alt="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+<img height="64px" width="80%" alt="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
 </td>
 
-<td width="100%" align="center">
+<td  align="center">
 <span><b>NodeJs</b></span><br><br>
 <img height="64px"  width="80%" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </td>
 
-<td width="100%" align="center">
+<td align="center">
 <span><b>ExpressJs</b></span><br><br>
 <img height="64px"  width="80%" alt="ExpressJs" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
 </td>
-<td width="100%" align="center">
+<td align="center">
 <span><b>MongoDb</b></span><br><br>
 <img height="64px"  width="80%" alt="MongoDb" src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png">
 </td>
