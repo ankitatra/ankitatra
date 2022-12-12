@@ -96,9 +96,7 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitatra&show_icons=true&locale=en&layout=compact" alt="AnkitaThakur" />
 </p>
-<p>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ankitatra&theme=gruvbox&hide_border=true&area=true"  width="100%"/>
-</p>
+
 
 <img width= 100% src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
 
