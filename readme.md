@@ -93,9 +93,7 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitatra&" alt="AnkitaThakur" />
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitatra&show_icons=true&locale=en&layout=compact" alt="AnkitaThakur" />
-</p>
+
 
 
 <img width= 100% src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
