@@ -1,102 +1,96 @@
-<h1 align="center">Hi <img style="height: 40px;" src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="">, I'm Ankita Thakur</h1>
-<p align="center"><img   src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;&right=true&width=400&height=50"></p>
+![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<img align="center" style="height: 200px;" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/154158025837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="">
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I am Ankita Thakur</h1>
+<h3 align="center"> Aspiring Full Stack Web Developer (Full-Time)</h3>
+<p align="center">
+-   🌱 <b><I>I CODE, CONNECT & CREATE</I></b> <br/>
+-   🤝 Any type of Project Proposal is invited. <br/>
+-   ⚡ For fun, I socialize on Discord. <br/>
+-    Half way to Full Stack MERN Dev. <br/>
+</p>
 
-<br>
+<div align='center'>
 
-- 🌱 I’m currently learning **Adavance React/Redux**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ankitatra?tab=repositories](https://github.com/ankitatra?tab=repositories)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
-
-- 📫 How to reach me **ankitathakurankita7007@gmail.com**
-
-- ⚡ Fun fact **Knowledge is the Key to Build your Future.**
-
-
-<br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitatra&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitaThakur" /> </p>
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ankitatra" alt="AnkitaThakur" /> </p>
-
-
-
-<br>
-
-<h3 align="center">Where To Find Me: 📫</h3>
-<div align="center" display="flex">
-  <a  href="https://www.linkedin.com/in/ankitathakur24/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a  href="mailto:ankitathakurankita7007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a  href="https://github.com/ankitatra" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  ![Fge](https://img.shields.io/badge/age-21-blue&height="20")
+  ![Focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
   
 </div>
 
-<br>
-<br>
+<div align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=ankitatra&label=Profile%20views&color=0e75b6&style=flat" alt="ankita" />
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<table align="center">
-<tbody>
+<h3 align="center"> :pencil:My (TOOL,TECH & Specifications) 🛠️:</h3>
 
-<td width="100%" align="center">
-<span><b>HTML</b></span><br><br>
-<img height="64px" width="80%" alt="HTML5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-</td>
-<td  align="center">
-<span><b>CSS</b></span><br><br>
-<img height="64px"  width="80%" alt="CSS3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</td>
-<td align="center">
-<span><b>JavaScript</b></span><br><br>
-<img height="64px"  width="80%" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</td>
-<td align="center">
-<span><b>ReactJs</b></span><br><br>
-<img height="64px"  width="80%" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</td>
+<div align='center' style="display: flex;" >
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-9400d3?style=for-the-badge&logo=bootstrap&logoColor=violet" />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+
+</div>
+
+<h3 align="center"> :pencil: Familiar IDEs & Deployment sites 🛠️:</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />  
+</div>
+
+---
 
 
 
-<td width=55%" align="center">
-<span><b>Redux</b></span><br><br>
-<img height="64px" width="80%" alt="Redux" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-</td>
+<h3 align="center"> My GitHub Stats 📈:</h3>
 
-<td  align="center">
-<span><b>NodeJs</b></span><br><br>
-<img height="64px"  width="80%" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</td>
+<div align="center" style:"display: flex;">
+<img alt="Avinash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitatra&theme=react&hide_border=true&bg_color=##FF9E0F"/>
 
-<td align="center">
-<span><b>ExpressJs</b></span><br><br>
-<img height="64px"  width="80%" alt="ExpressJs" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
-</td>
-<td align="center">
-<span><b>MongoDb</b></span><br><br>
-<img height="64px"  width="80%" alt="MongoDb" src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png">
-</td>
+ </div>
 
-</tbody>
-</table>
+<div align="center" style:"display: flex;">
+  <img width="450px" height="200px" alt="Ankita Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankitatra&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
 
-<br>
-<br>
+---
 
-<h3 align="left">My GitHub Stats:</h3>
+  <h3 align="center">Want To Get In Touch? Reach Out To Me On :</h3>
+  <h4 align="center"> 👇 </h4>
+  
+<div align="center" style:"display: flex;">
+   <div align="center" style:"display: flex;">
+      <a href="mailto:thakurankita7007@gmail.com">
+      <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      </a> 
+   </div>
+   <div align="center" style:"display: flex;">
+     <a href="https://www.linkedin.com/in/ankitathakur24/">
+      <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=red">
+     </a>
+   </div>
+</div>
+
+
 <p align="center">
-
-<p>
-    <img  src="https://github-readme-stats.vercel.app/api?username=ankitatra&show_icons=true&locale=en" alt="AnkitaThakur" />
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitatra&" alt="AnkitaThakur" />
+  You can Support my work by Sharing and giving a ⭐ to my repositories
+ <div align="center">
+   Also, you can fork the repositories if you want.
+ </div>
 </p>
-
-
-
-
-<img width= 100% src="https://miro.medium.com/max/1400/1*sV60JhlYL4IdWjcNvKTJRA.png" alt="">
-
-<h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
-
+<div>
+  <p align='center'><b>🏆 Github Achievements</b></p><br/>
+  <p align="center"> <a https://github.com/ankitatra"><img src="https://github-profile-trophy.vercel.app/?username=ankitatra&margin-w=5&theme=radical" alt="ankita" /></a> </p>
+</div>
