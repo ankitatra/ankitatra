@@ -11,7 +11,7 @@
 
 <div align='center'>
 
-  ![Fge](https://img.shields.io/badge/age-21-blue&height="20")
+  ![Fge](https://img.shields.io/badge/age-24-blue&height="20")
   ![Focus](https://img.shields.io/badge/focus-SoftwareDevelopment-orange)
   
 </div>
@@ -57,7 +57,7 @@
 <h3 align="center"> My GitHub Stats 📈:</h3>
 
 <div align="center" style:"display: flex;">
-<img alt="Avinash streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitatra&theme=react&hide_border=true&bg_color=##FF9E0F"/>
+<img alt="Ankita streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitatra&theme=react&hide_border=true&bg_color=##FF9E0F"/>
 
  </div>
 
