@@ -54,7 +54,7 @@
 
 
 
-<h3 align="center"> My GitHub Stat 📈:</h3>
+<h3 align="center"> My GitHub Stats 📈:</h3>
 
 <div align="center" style:"display: flex;">
 <img alt="Ankita streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitatra&theme=react&hide_border=true&bg_color=##FF9E0F"/>
